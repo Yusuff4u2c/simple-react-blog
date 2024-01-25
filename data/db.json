@@ -1,0 +1,64 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Introduction to React",
+      "body": "In this blog post, we will explore the basics of React and its core concepts.",
+      "author": "John Doe"
+    },
+    {
+      "id": "2",
+      "title": "JavaScript ES6 Features",
+      "body": "Learn about the powerful features introduced in ECMAScript 2015 (ES6) and how they can improve your JavaScript code.",
+      "author": "Jane Smith"
+    },
+    {
+      "id": "3",
+      "title": "CSS Flexbox Layout",
+      "body": "Discover the flexibility of CSS Flexbox and how it simplifies the design and layout of web applications.",
+      "author": "Chris Johnson"
+    },
+    {
+      "id": "4",
+      "title": "Node.js Basics",
+      "body": "Get started with Node.js, a server-side JavaScript runtime, and understand its fundamental concepts and use cases.",
+      "author": "Emma Brown"
+    },
+    {
+      "id": "5",
+      "title": "Responsive Web Design",
+      "body": "Learn the principles of responsive web design and how to create websites that adapt to various screen sizes.",
+      "author": "Alex Turner"
+    },
+    {
+      "id": "6",
+      "title": "Web Accessibility",
+      "body": "Explore the importance of web accessibility and how to make your websites inclusive for all users.",
+      "author": "John Doe"
+    },
+    {
+      "id": "7",
+      "title": "Modern Frontend Frameworks",
+      "body": "Compare popular frontend frameworks like React, Vue, and Angular to choose the right one for your project.",
+      "author": "Jane Smith"
+    },
+    {
+      "id": "8",
+      "title": "Advanced CSS Techniques",
+      "body": "Dive into advanced CSS techniques such as animations, transitions, and custom properties to enhance your web designs.",
+      "author": "Chris Johnson"
+    },
+    {
+      "id": "9",
+      "title": "Serverless Architecture with AWS Lambda",
+      "body": "Learn how to build serverless applications using AWS Lambda and other cloud services.",
+      "author": "Emma Brown"
+    },
+    {
+      "id": "10",
+      "title": "GraphQL: A Query Language for APIs",
+      "body": "Explore GraphQL as a modern alternative to traditional REST APIs for efficient data fetching in your applications.",
+      "author": "Alex Turner"
+    }
+  ]
+}
